@@ -1,7 +1,7 @@
 # Born2BeRoot
 <h3>Create virtual machine without GUI &amp;&amp; Configure via bash.</h3>
 
-- 🎯 This project aims to *create a virtual machine with no graphical interface* and followed by the configuration of various system parameters provided in the subject.
+- 🎯 This project aims to *create a virtual machine with no graphical interface* and followed by the configuration of various system parameters provided in the subject [Born2BeRoot_subject.en.txt]().
 - 📚 Besides the practical character, for the effective conclusion of the project, we were *required to have theoretical knowledge about all the tools used in its development*.
 - 🤓 The project was all developed in *VirtualBox*, and through its development I had access to some **new knowledge/skills** described below:
 -
