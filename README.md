@@ -11,7 +11,7 @@
 -
 
 - 🖖 To support my studies, I made a guide with all the necessary theoretical background for those who are starting the project, as well as links to more detailed material, and a practical guide to bash commands needed to configure the machine according to the project's parameters. 
-- 💚💛 The guide is in Portuguese-Brazil, because I believe there is still little specific material on the subject in this language, and can be accessed by [clicking here](https://app.gitbook.com/o/aRI5hAvCazdt1dOmpZmd/s/rGPbW3XCn3Kl2phAAgvE/](https://pin3dev.gitbook.io/projetos/).
+- 💚💛 The guide is in Portuguese-Brazil, because I believe there is still little specific material on the subject in this language, and can be accessed by [clicking here](https://pin3dev.gitbook.io/projetos/).
 <br>
 
 ✌️I hope you enjoy!!
