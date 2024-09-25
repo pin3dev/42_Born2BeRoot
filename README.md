@@ -4,7 +4,7 @@
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BRoot">
+  <a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BeRoot">
     <img src="https://img.shields.io/badge/Virtualization-blue?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Partitioning-blue?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Password_Policy-blue?style=for-the-badge"/>
@@ -92,7 +92,7 @@ All configurations and scripts must comply with these rules, even if they seem u
 ## 📖 Theoretical Background <a id="theoretical"></a>
 
 All theoretical resources and materials used in the project are linked below and organized by topic. These cover the essential concepts required to complete the project successfully.  
-<h3 align="center"><a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BRoot">-----Born2BeRoot Theoretical-----</a></h3>
+<h3 align="center"><a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BeRoot">-----Born2BeRoot Theoretical-----</a></h3>
 
 ## 👥 Contributors <a id="contributors"></a>
 
