@@ -19,14 +19,15 @@
 
 <h3>
   <p align="center"> 
-    <a href="#introduction">Introduction</a>• 
-    <a href="#project-structure">Structure</a>• 
-    <a href="#cloning-the-repository">Cloning</a>• 
-    <a href="#norms-and-guidelines-disclaimer">Norms</a>• 
-    <a href="#theoretical-background">Theoretical</a>• 
-    <a href="#contributors">Contributors</a>
+    <a href="https://github.com/pin3dev/42_Born2BeRoot/blob/main/README.md#introduction">Introduction</a>• 
+    <a href="https://github.com/pin3dev/42_Born2BeRoot/blob/main/README.md#project-structure">Structure</a>• 
+    <a href="https://github.com/pin3dev/42_Born2BeRoot/blob/main/README.md#cloning-the-repository">Cloning</a>• 
+    <a href="https://github.com/pin3dev/42_Born2BeRoot/blob/main/README.md#norms-and-guidelines-disclaimer">Norms</a>• 
+    <a href="https://github.com/pin3dev/42_Born2BeRoot/blob/main/README.md#theoretical-background">Theoretical</a>• 
+    <a href="https://github.com/pin3dev/42_Born2BeRoot/blob/main/README.md#contributors">Contributors</a>
   </p>
 </h3>
+
 
 ## 🗣️ Introduction
 
