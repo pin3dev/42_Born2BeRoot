@@ -1,13 +1,17 @@
-<h1 align="center">Born2BeRoot </h1>
-<p align="center"> <img src="https://img.shields.io/badge/100-125-gray?style=for-the-badge&logo=42&logoColor=gray&labelColor=green"/></p>
+<h1 align="center">Born2BeRoot</h1>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/100-125-gray?style=for-the-badge&logo=42&logoColor=gray&labelColor=green"/>
+</p>
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Virtualization-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
-  <img src="https://img.shields.io/badge/Partitioning-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
-  <img src="https://img.shields.io/badge/Password_Policy-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
-  <img src="https://img.shields.io/badge/SSH-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
-  <img src="https://img.shields.io/badge/Automation-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
-  <img src="https://img.shields.io/badge/Firewall-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
+  <a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BRoot">
+    <img src="https://img.shields.io/badge/Virtualization-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
+    <img src="https://img.shields.io/badge/Partitioning-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
+    <img src="https://img.shields.io/badge/Password_Policy-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
+    <img src="https://img.shields.io/badge/SSH-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
+    <img src="https://img.shields.io/badge/Automation-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
+    <img src="https://img.shields.io/badge/Firewall-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
+  </a>
 </p>
 
  <p align="center">
