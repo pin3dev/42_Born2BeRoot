@@ -1,6 +1,6 @@
 <h1 align="center">Born2BeRoot</h1>
 <p align="center"> 
-  <img src="https://img.shields.io/badge/100-125-gray?style=for-the-badge&logo=42&logoColor=gray&labelColor=green"/>
+  <img src="https://img.shields.io/badge/grade-100-green?style=for-the-badge&logo=42&labelColor=gray"/>
 </p>
 
 <p align="center"> 
