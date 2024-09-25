@@ -1,16 +1,28 @@
-<h1 align="center">Born2BeRoot</h1>
-<p align="center">
-  <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FrGPbW3XCn3Kl2phAAgvE%2Fuploads%2FwLr7nj7npMRk4E5XxdBd%2Fezgif-2-9d327d2a00.gif?alt=media&token=14d949a6-1638-4aff-abcc-2da7a848bcd5" width="600" height="250" />
+<h1 align="center">Born2BeRoot </h1>
+<p align="center"> <img src="https://img.shields.io/badge/100-125-gray?style=for-the-badge&logo=42&logoColor=gray&labelColor=green"/></p>
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Virtualization-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
+  <img src="https://img.shields.io/badge/Partitioning-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
+  <img src="https://img.shields.io/badge/Password_Policy-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
+  <img src="https://img.shields.io/badge/SSH-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
+  <img src="https://img.shields.io/badge/Automation-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
+  <img src="https://img.shields.io/badge/Firewall-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
 </p>
-<p align="center"> 📖
-<a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BRoot">Virtualization</a>• 
-<a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BRoot">Partitioning</a>• 
-<a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BRoot">Password Policy</a>• 
-<a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BRoot">SSH</a>• 
-<a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BRoot">Automation</a>• 
-<a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BRoot">SELinux/AppArmor</a>• 
-<a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BRoot">Firewall</a>
-📖 </p>
+
+ <p align="center">
+  <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FrGPbW3XCn3Kl2phAAgvE%2Fuploads%2FwLr7nj7npMRk4E5XxdBd%2Fezgif-2-9d327d2a00.gif?alt=media&token=14d949a6-1638-4aff-abcc-2da7a848bcd5" width="600" height="250" />
+
+<h3>
+  <p align="center"> 
+    <a href="https://github.com/pin3dev/42_Born2BeRoot/#introduction">Introduction</a>• 
+    <a href="https://github.com/pin3dev/42_Born2BeRoot/#project-structure">Structure</a>• 
+    <a href="https://github.com/pin3dev/42_Born2BeRoot/#cloning-the-repository">Cloning</a>• 
+    <a href="https://github.com/pin3dev/42_Born2BeRoot/#norms-and-guidelines-disclaimer">Norms</a>• 
+    <a href="https://github.com/pin3dev/42_Born2BeRoot/#theoretical-background">Theoretical</a>• 
+    <a href="https://github.com/pin3dev/42_Born2BeRoot/#contributors">Contributors</a>
+  </p>
+</h3>
 
 ## 🗣️ Introduction
 
