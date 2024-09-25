@@ -96,5 +96,10 @@ All theoretical resources and materials used in the project are linked below and
 
 ## 👥 Contributors <a id="contributors"></a>
 
-* Ívany Pinheiro aka [`@pin3dev`](https://github.com/pin3dev)
-* Clara Franco aka [`@clima-fr`](https://github.com/clima-fr)
+<a href="https://github.com/pin3dev">
+  <img src="https://img.shields.io/badge/Ivany_Pinheiro-%40pin3dev-purple?style=for-the-badge"/>  
+</a>  
+<br>
+<a href="https://github.com/clima-fr">
+  <img src="https://img.shields.io/badge/Clara_Franco-%40clima--fr-purple?style=for-the-badge"/>  
+</a>
