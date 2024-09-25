@@ -19,32 +19,32 @@
 
 <h3>
   <p align="center"> 
-    <a href="https://github.com/pin3dev/42_Born2BeRoot/blob/main/README.md#introduction">Introduction</a>• 
-    <a href="https://github.com/pin3dev/42_Born2BeRoot/blob/main/README.md#project-structure">Structure</a>• 
-    <a href="https://github.com/pin3dev/42_Born2BeRoot/blob/main/README.md#cloning-the-repository">Cloning</a>• 
-    <a href="https://github.com/pin3dev/42_Born2BeRoot/blob/main/README.md#norms-and-guidelines-disclaimer">Norms</a>• 
-    <a href="https://github.com/pin3dev/42_Born2BeRoot/blob/main/README.md#theoretical-background">Theoretical</a>• 
-    <a href="https://github.com/pin3dev/42_Born2BeRoot/blob/main/README.md#contributors">Contributors</a>
+    <a href="#introduction">Introduction</a>• 
+    <a href="#structure">Structure</a>• 
+    <a href="#cloning">Cloning</a>• 
+    <a href="#norms">Norms</a>• 
+    <a href="#theoretical">Theoretical</a>• 
+    <a href="#contributors">Contributors</a>
   </p>
 </h3>
 
 
-## 🗣️ Introduction
+## 🗣️ Introduction <a id="introduction"></a>
 
 This repository documents the **Born2BeRoot** project, a system administration challenge that involves creating and configuring a secure virtual machine with no graphical interface.  
 The goal of the project is to understand and implement essential **Linux server security practices** and to configure the system according to specific guidelines.  
 
-## 🧬 Project Structure
+## 🧬 Project Structure <a id="structure"></a>
 
 The project is centered around configuring a **virtual machine** (using VirtualBox or UTM), securing a Linux environment, and managing system operations.  
 Key topics covered in the project include **system partitioning**, **user password policies**, **firewall configuration**, **SSH security**, and **automated tasks with Cron**.
 
-## 🗃️ Documentation
+## 🗃️ Documentation <a id="docs"></a>
 
 For a step-by-step guide on how to execute the Born2BeRoot project, detailed explanations of the required tools, and examples, visit the link below:
 <h3 align="center"><a href="https://github.com/pin3dev/42_Born2BeRoot/wiki">-----Born2BeRoot Wiki-----</a></h3>
 
-## 🫥 Cloning the Repository
+## 🫥 Cloning the Repository <a id="cloning"></a>
 
 To clone this repository and access the project documentation, run the following commands:
 
@@ -54,7 +54,7 @@ cd Born2BeRoot
 ```
 This will download the project to your local machine, where you can explore the configuration files and scripts used in the project.
 
-<!-- ## 🕹️ Execution and Configuration
+<!-- ## 🕹️ Execution and Configuration <a id="execution"></a>
 
 ### Virtual Machine Setup
 
@@ -71,7 +71,7 @@ The key system configurations required for the project include:
 - Configuring **UFW** (Uncomplicated Firewall) or **FirewallD** for added security.
 - Setting up **Cron jobs** to automate routine tasks.
 
-## 🕹️ Usage Examples
+## 🕹️ Usage Examples <a id="usage"></a>
 
 After configuring the virtual machine, use the following to test and run the project:
 
@@ -84,17 +84,17 @@ After configuring the virtual machine, use the following to test and run the pro
 
 3. To ensure your setup is correct, you can run security checks using built-in Linux tools or external utilities as outlined in the tutorial.-->
 
-## ⚠️ Norms and Guidelines Disclaimer
+## ⚠️ Norms and Guidelines Disclaimer <a id="norms"></a>
 
 This project adheres strictly to [42 School Norms](https://github.com/pin3dev/42_Cursus/blob/b9cd0fe844ddb441d0b3efb98abcee92aee49535/assets/General/norme.en.pdf) and [Subject](https://github.com/pin3dev/42_Cursus/blob/4b2e9de9dfc1099a304bd0f972024b7afbdc2fbe/assets/Born2BeRoot/Rdm/born2beroot_en.subject.pdf), enforcing specific coding and system configuration guidelines.  
 All configurations and scripts must comply with these rules, even if they seem unconventional, to meet the strict standards set by the school.
 
-## 📖 Theoretical Background
+## 📖 Theoretical Background <a id="theoretical"></a>
 
 All theoretical resources and materials used in the project are linked below and organized by topic. These cover the essential concepts required to complete the project successfully.  
 <h3 align="center"><a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BRoot">-----Born2BeRoot Theoretical-----</a></h3>
 
-## 👥 Contributors
+## 👥 Contributors <a id="contributors"></a>
 
 * Ívany Pinheiro aka [`@pin3dev`](https://github.com/pin3dev)
 * Clara Franco aka [`@clima-fr`](https://github.com/clima-fr)
