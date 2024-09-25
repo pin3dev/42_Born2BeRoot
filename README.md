@@ -5,12 +5,12 @@
 
 <p align="center"> 
   <a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BRoot">
-    <img src="https://img.shields.io/badge/Virtualization-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
-    <img src="https://img.shields.io/badge/Partitioning-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
-    <img src="https://img.shields.io/badge/Password_Policy-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
-    <img src="https://img.shields.io/badge/SSH-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
-    <img src="https://img.shields.io/badge/Automation-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
-    <img src="https://img.shields.io/badge/Firewall-blue?style=for-the-badge&labelColor=blue&link=https%3A%2F%2Fgithub.com%2Fpin3dev%2F42_Cursus%2Ftree%2Fmain%2Flibrary%2F%2301-Born2BRoot"/>
+    <img src="https://img.shields.io/badge/Virtualization-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Partitioning-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Password_Policy-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/SSH-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/automation-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/firewall-blue?style=for-the-badge"/>
   </a>
 </p>
 
@@ -19,11 +19,11 @@
 
 <h3>
   <p align="center"> 
-    <a href="#introduction">Introduction</a>• 
-    <a href="#structure">Structure</a>• 
-    <a href="#cloning">Cloning</a>• 
-    <a href="#norms">Norms</a>• 
-    <a href="#theoretical">Theoretical</a>• 
+    <a href="#introduction">Introduction</a> • 
+    <a href="#structure">Structure</a> • 
+    <a href="#cloning">Cloning</a> • 
+    <a href="#norms">Norms</a> • 
+    <a href="#theoretical">Theoretical</a> • 
     <a href="#contributors">Contributors</a>
   </p>
 </h3>
