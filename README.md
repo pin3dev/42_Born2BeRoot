@@ -24,6 +24,7 @@
     <a href="#cloning">Cloning</a> • 
     <a href="#norms">Norms</a> • 
     <a href="#theoretical">Theoretical</a> • 
+    <a href="#tutorial">Tutorial</a> • 
     <a href="#contributors">Contributors</a>
   </p>
 </h3>
