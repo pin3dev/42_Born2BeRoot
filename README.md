@@ -42,7 +42,13 @@ Key topics covered in the project include **system partitioning**, **user passwo
 ## 🗃️ Documentation <a id="docs"></a>
 
 For a step-by-step guide on how to execute the Born2BeRoot project, detailed explanations of the required tools, and examples, visit the link below:
-<h3 align="center"><a href="https://github.com/pin3dev/42_Born2BeRoot/wiki">-----Born2BeRoot Wiki-----</a></h3>
+
+<p align="center"> 
+  <a href="https://github.com/pin3dev/42_Born2BeRoot/wiki">
+    <img src="https://img.shields.io/badge/Born2BeRoot_Docs-lightgreen?style=for-the-badge"/>
+  </a>
+</p>
+
 
 ## 🫥 Cloning the Repository <a id="cloning"></a>
 
@@ -92,7 +98,22 @@ All configurations and scripts must comply with these rules, even if they seem u
 ## 📖 Theoretical Background <a id="theoretical"></a>
 
 All theoretical resources and materials used in the project are linked below and organized by topic. These cover the essential concepts required to complete the project successfully.  
-<h3 align="center"><a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BeRoot">-----Born2BeRoot Theoretical-----</a></h3>
+
+<p align="center"> 
+  <a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BeRoot">
+    <img src="https://img.shields.io/badge/Born2BeRoot_Library-gray?style=for-the-badge"/>
+  </a>
+</p>
+
+## 🔬 Tutorial <a id="tutorial"></a>
+
+A step-by-step tutorial is available and can be followed to complete the project. It is linked in the button below.   
+
+<p align="center"> 
+  <a href="https://github.com/pin3dev/42_Cursus/tree/main/tutorial/Born2BeRoot">
+    <img src="https://img.shields.io/badge/Born2BeRoot_Tutorial-lightgreen?style=for-the-badge"/>
+  </a>
+</p>
 
 ## 👥 Contributors <a id="contributors"></a>
 
