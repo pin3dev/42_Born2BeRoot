@@ -98,7 +98,7 @@ All configurations and scripts must comply with these rules, even if they seem u
 
 ## 📖 Theoretical Background <a id="theoretical"></a>
 
-All theoretical resources and materials used in the project are linked below and organized by topic. These cover the essential concepts required to complete the project successfully.  
+All the theoretical material used to develop this project is organized and can be accessed directly via the link below:    
 
 <p align="center"> 
   <a href="https://github.com/pin3dev/42_Cursus/tree/main/library/#01-Born2BeRoot">
